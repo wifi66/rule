@@ -2,12 +2,6 @@
 # AUTHOR: wifi66
 # GITHUB: https://github.com/wifi66/rule
 # UPDATED: 2021-02-10 02:45:44.029185
-# USER-AGENT: 1
-# DOMAIN-SUFFIX: 13
-# HOST-KEYWORD: 1
-# HOST: 1
-# TOTAL: 16
-HOST,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
@@ -17,5 +11,3 @@ DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,sgpstatp.com
 DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-KEYWORD,-tiktokcdn-com

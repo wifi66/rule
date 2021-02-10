@@ -6,7 +6,7 @@
 # HOST-SUFFIX: 13
 # HOST-KEYWORD: 1
 # HOST: 1
-# TOTAL: 16
+# TOTAL: 13
 HOST,p16-tiktokcdn-com.akamaized.net
 HOST-SUFFIX,amemv.com
 HOST-SUFFIX,byteoversea.com
@@ -18,8 +18,5 @@ HOST-SUFFIX,musical.ly
 HOST-SUFFIX,sgpstatp.com
 HOST-SUFFIX,snssdk.com
 HOST-SUFFIX,tik-tokapi.com
-HOST-SUFFIX.com
-HOST-SUFFIXcdn.com
-HOST-SUFFIXv.com
 HOST-KEYWORD,-tiktokcdn-com
-USER-AGENT*
+USER-AGENT,*tiktok*
